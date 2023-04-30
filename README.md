@@ -1,8 +1,6 @@
-![github-header-image](https://user-images.githubusercontent.com/25147704/157346107-915fbdb8-1fce-4651-ac85-74e0310604ea.png)
-
 ### Hi there 👋
 
-My name is Pablo Klascha, I'm a student, developer and creative from Würzburg Germany.
+My name is Zuri Klascha, I'm a student, developer and creative from Würzburg Germany.
 
 I primarily develop websites, plugins for Adobe XD and developer tooling, but also individual web- and desktop apps.
 
